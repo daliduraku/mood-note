@@ -47,3 +47,7 @@ Demo data
         }
     }
 }
+
+A full stack mood tracking application with Next.JS 14, Firebase and TailwindCSS
+
+[Visit the website](https://moodnote.netlify.app/)
